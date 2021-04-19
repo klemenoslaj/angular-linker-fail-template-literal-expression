@@ -161,10 +161,9 @@
   dependencies:
     tslib "^2.1.0"
 
-"@angular/compiler-cli@~12.0.0-next.9":
-  version "12.0.0-next.9"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-12.0.0-next.9.tgz#ed4636a7453e4854ce87fb44b97550ad161abad7"
-  integrity sha512-f4VPl2EcX6DwBGJd69FF/BoJeVx1UDsX4l6CGNXcXut/fPKr1078zjd9kKCJ58PspT+/9lez7j0REkGkTtOkFQ==
+"@angular/compiler-cli@https://967162-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-master-de25cdac54.tgz":
+  version "12.0.0-next.8"
+  resolved "https://967162-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-master-de25cdac54.tgz#6118cf42aaa26288ca7a1550e879943c87cda308"
   dependencies:
     "@babel/core" "^7.8.6"
     "@babel/types" "^7.8.6"
@@ -186,10 +185,9 @@
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-9.0.0.tgz#87e0bef4c369b6cadae07e3a4295778fc93799d5"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/compiler@~12.0.0-next.9":
-  version "12.0.0-next.9"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-12.0.0-next.9.tgz#e939a43fb5090668a2f67324da5b091690b53d5f"
-  integrity sha512-nRpxuGj5DKnh7DDqNzUT3dfNvejfIu2AxNjAF4Wa/cZTrSABgvVxPo3DmvEesLvu4v1XJORFe/0vdeErivtEbQ==
+"@angular/compiler@https://967162-24195339-gh.circle-artifacts.com/0/angular/compiler-master-de25cdac54.tgz":
+  version "12.0.0-next.8"
+  resolved "https://967162-24195339-gh.circle-artifacts.com/0/angular/compiler-master-de25cdac54.tgz#f7db48f6a5c033069b6f77a45bc606657a8c063e"
   dependencies:
     tslib "^2.1.0"
 
